@@ -26,9 +26,10 @@ my %WriteMakefileArgs = (
   "PREREQ_PM" => {
     "LWP" => "6.04",
     "Moo" => "1.000004",
-    "MooX::Types::MooseLike::Base" => "0.16"
+    "MooX::Types::MooseLike::Base" => "0.16",
+    "Safe::Isa" => "1.000002"
   },
-  "VERSION" => "0.001",
+  "VERSION" => "0.002",
   "test" => {
     "TESTS" => "t/*.t"
   }

@@ -19,10 +19,11 @@ requires:
   LWP: 6.04
   Moo: 1.000004
   MooX::Types::MooseLike::Base: 0.16
+  Safe::Isa: 1.000002
 resources:
   homepage: https://github.com/Getty/p5-www-chain
   repository: https://github.com/Getty/p5-www-chain.git
-version: 0.001
+version: 0.002
 x_Dist_Zilla:
   perl:
     version: 5.014002
