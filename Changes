@@ -1,0 +1,35 @@
+==================================================
+Changes from 1738-12-30 00:00:00 +0000 to present.
+==================================================
+
+------------------------------------------
+version 0.001 at 2012-10-13 05:32:51 +0000
+------------------------------------------
+
+  Change: 3fcb3bbdd4a27cfca8cfd0261c6371ee01e29a79
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2012-10-13 07:32:21 +0000
+
+    Added theoretical non blocking example 
+
+  Change: 1d0a55af8bf833f2f983f21f55b6e26d47452988
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2012-10-13 07:26:19 +0000
+
+    Hups, fixed SYNOPSIS 
+
+  Change: bf3d9d8b5406301ffb513f2c96850a60b6a4ea03
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2012-10-13 07:25:03 +0000
+
+    First implementation, LWP based useragent, test suite 
+
+  Change: 6f359d395a4a1bd8f4170d89c138eeb75e544aa9
+  Author: Torsten Raudssus <torsten@raudss.us>
+  Date : 2012-10-12 02:30:11 +0000
+
+    initial commit 
+
+================
+End of releases.
+================
