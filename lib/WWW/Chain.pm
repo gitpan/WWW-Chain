@@ -3,7 +3,7 @@ BEGIN {
   $WWW::Chain::AUTHORITY = 'cpan:GETTY';
 }
 {
-  $WWW::Chain::VERSION = '0.002';
+  $WWW::Chain::VERSION = '0.003';
 }
 # ABSTRACT: A web request chain
 
@@ -122,7 +122,7 @@ WWW::Chain - A web request chain
 
 =head1 VERSION
 
-version 0.002
+version 0.003
 
 =head1 SYNOPSIS
 

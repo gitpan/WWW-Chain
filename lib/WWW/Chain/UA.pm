@@ -3,7 +3,7 @@ BEGIN {
   $WWW::Chain::UA::AUTHORITY = 'cpan:GETTY';
 }
 {
-  $WWW::Chain::UA::VERSION = '0.002';
+  $WWW::Chain::UA::VERSION = '0.003';
 }
 # ABSTRACT: Role for classes which have a request_chain function for a WWW::Chain object
 
@@ -21,7 +21,7 @@ WWW::Chain::UA - Role for classes which have a request_chain function for a WWW:
 
 =head1 VERSION
 
-version 0.002
+version 0.003
 
 =head1 AUTHOR
 

@@ -3,7 +3,7 @@ BEGIN {
   $WWW::Chain::UA::LWP::AUTHORITY = 'cpan:GETTY';
 }
 {
-  $WWW::Chain::UA::LWP::VERSION = '0.002';
+  $WWW::Chain::UA::LWP::VERSION = '0.003';
 }
 
 use Moo;
@@ -38,7 +38,7 @@ WWW::Chain::UA::LWP
 
 =head1 VERSION
 
-version 0.002
+version 0.003
 
 =head1 AUTHOR
 
